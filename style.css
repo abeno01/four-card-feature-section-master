@@ -32,11 +32,8 @@ body {
 
 .main-grid {
   min-height: 100vh;
-  margin: 10rem auto;
+  margin: 1rem auto;
   width: min(80%, 1100px);
-}
-
-.header {
 }
 
 .header__main-title {
